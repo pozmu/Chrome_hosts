@@ -3,7 +3,7 @@
 
 通过该 Chrome 扩展，快捷方便的切换、设置 host 代理规则，而不用修改系统 hosts 文件，方便web开发人员在 各种/测试/开发/线上 环境快速切换
 
-通过 [Chrome Store](https://chrome.google.com/webstore/detail/host-switch-plus/bopepoejgapmihklfepohbilpkcdoaeo?utm_source=chrome-ntp-icon) 安装
+通过 [Chrome Store](#) 安装
 
 无法通过 Chrome Store 安装或者更新的朋友，可以尝试使用 百度浏览器或者360之类的支持 Chrome 扩展的浏览器：
 360 浏览器/百度浏览器等其他支持 Chrome 扩展的浏览器，[下载 crx 文件](https://github.com/Riant/host-switch-plus/raw/master/host-switch-plus.crx)，转至浏览器扩展程序管理界面，将下载的 crx 文件拖拽至该页面中释放，即可根据提示安装使用。
@@ -19,7 +19,7 @@
 注：
 1. https: 由于没有 https 目标服务器，https 的支持测试不完整（通过 Fiddler 和 Shadowsocks 2.5.2 测试），如果有需要，请确保您的目标服务器有相应的 https 请求支持。
 
-Install from [Chrome Store](https://chrome.google.com/webstore/detail/host-switch-plus/bopepoejgapmihklfepohbilpkcdoaeo?utm_source=chrome-ntp-icon)
+Install from [Chrome Store](#)
 
 Change the hosts rules in Chrome. It's easy, and effect immediately.
 
